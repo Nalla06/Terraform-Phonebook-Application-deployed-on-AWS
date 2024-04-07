@@ -3,11 +3,11 @@ variable "git-name" {
 }
 
 variable "git-token" {
-  default = "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"
+  default = "ghpxxxxxxxxxxxxxxxxxxxxx"
 }
 
 variable "key-name" {
-  default = "linux-key-pair"
+  default = "xxxxxxxx"
 }
 
 variable "hosted-zone" {
