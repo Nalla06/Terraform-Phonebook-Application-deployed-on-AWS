@@ -2,10 +2,10 @@ variable "git-name" {
   default = "Nalla06"
 }
 variable "git-token" {
-  default = "*****************"
+  default = "xxxxxxxxx"
 }
 variable "key-name" {
-  default = "xxxxxxxx"
+  default = "xxxxxx"
 }
 
 variable "hosted-zone" {
