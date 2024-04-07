@@ -109,8 +109,8 @@ resource "aws_db_instance" "db-server" {
   db_name                     = "phonebook"
   engine                      = "mysql"
   engine_version              = "8.0.28"
-  username                    = "Nalla"
-  password                    = "Nalla-06"
+  username                    = "xxxxxx"
+  password                    = "xxxxxxx"
   monitoring_interval         = 0
   multi_az                    = false
   port                        = 3306
