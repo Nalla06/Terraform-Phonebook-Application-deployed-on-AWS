@@ -2,9 +2,9 @@ variable "git-name" {
   default = "Nalla06"
 }
 
-variable "git-token" {
+#variable "git-token" {
   #default = "ghpxxxxxxxxxxxxxxxxxxxxx"
-}
+#}
 
 variable "key-name" {
   default = "xxxxxxxx"
