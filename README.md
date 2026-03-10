@@ -58,7 +58,8 @@ GitHub Repository
    Docker Container
         │
         ▼
-  Phonebook Python App   ```
+  Phonebook Python App  
+   ```
 ---
 ### Here’s the deployed application and infrastructure:
 
