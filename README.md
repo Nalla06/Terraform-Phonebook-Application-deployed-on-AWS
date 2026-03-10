@@ -37,6 +37,7 @@ Python provides simplicity and ease of integration with AWS resources and script
 The infrastructure is designed using Terraform, with a modular approach for easier reuse and scalability.
 
 ### Folder Structure:
+``` text
 terraform-aws-phonebook-app/
 │
 ├─ app/                       ← Python Flask application code
