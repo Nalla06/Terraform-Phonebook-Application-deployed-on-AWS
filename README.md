@@ -60,5 +60,5 @@ GitHub Repository
         ▼
   Phonebook Python App   ```
 
-  ![Description of image](screenshots/image-2.jpg)
-  ![Description of image](screenshots/image-3.jpg)
+![Description of image](screenshots/image-2.jpg)
+![Description of image](screenshots/image-3.jpg)  
