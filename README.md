@@ -59,6 +59,8 @@ GitHub Repository
         │
         ▼
   Phonebook Python App   ```
+---
+### Here’s the deployed application and infrastructure:
 
 ![Description of image](screenshots/image-2.jpg)
 ![Description of image](screenshots/image-3.jpg)  
