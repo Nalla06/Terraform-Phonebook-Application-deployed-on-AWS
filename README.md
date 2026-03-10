@@ -51,8 +51,8 @@ terraform-aws-phonebook-app/
 │       ├─ compute/            ← EC2 instances, Load balancer and auto-scaling group
 │       ├─ database/           ← RDS setup for storing contacts
 ├─ screenshots/               ← Images showing deployed resources
-└─ .gitignore                  ← Ignored files like .terraform, state
-
+└─ .gitignore                  ← Ignored files like .terraform, state 
+                                                                        ```
 GitHub Repository
      │
      │ contains
